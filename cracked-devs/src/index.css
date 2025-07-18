@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this for soft font vibe */
+body {
+  font-family: 'Comic Neue', sans-serif;
+  background-color: #fef8ef;
+}
